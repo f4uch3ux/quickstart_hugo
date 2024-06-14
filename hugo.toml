@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+title = "YoanDev Demo Blog"
+languageCode = "fr"
+
+# ...
+
+# Author’s information
+[author]
+    # Name
+    name = "YoanDev"
+    # Email
+    email = "contact@yoandev.co"
+    # Motto or introduction
+    motto = "🚀 Créateur de contenu, de formations et de solutions pour le web."
+    # Avatar
+    avatar = "/icons/apple-touch-icon.png"
+    # Personal website, default: baseURL
+    website = "https://yoandev.co/"
+    # Twitter
+    twitter = "yOyO38"
+
+# ...
